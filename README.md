@@ -1,5 +1,7 @@
 # team-curie-repository
-# PARSER for repeat-match based on Mummer package
 ## Hackbio-intership
-![hbio](hbio.jpeg"Repeat analysis")
+This repository was created by team-curie,
+## Members:
+
+![hbio](hbio.jpeg "hbio")
 
