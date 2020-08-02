@@ -1,4 +1,4 @@
 #!/usr/bin/php7.2
 <?php
-echo "Jairo_Hurtado,jairohcx@gmail.com,bash,Jairohcx@biotrust-scientific.slack.com";
+echo "Folagbade, Fmuyiwa58@gmail.com, bash, Genomics, @Folagbade"
 ?>
