@@ -1,2 +1,2 @@
 #!/usr/bin/ruby
-puts "Jairo_Hurtado,jairohcx@gmail.com,bash,Jairohcx@biotrust-scientific.slack.com"
+puts "Jairo_Hurtado,jairohcx@gmail.comh,ruby,Jairohcx@biotrust-scientific.slack.com"
