@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-print ("Jairo_Hurtado,jairohcx@gmail.com,bash,Jairohcx@biotrust-scientific.slack.com\n");
+print ("Jairo_Hurtado,jairohcx@gmail.com,perl,Jairohcx@biotrust-scientific.slack.com\n");
