@@ -1,4 +1,2 @@
-#!/usr/bin/php7.2
-<?php
-echo "folagbade, Fmuyiwa58@gmail.com, php, genomics, @Folagbade";
-?>
+#!/usr/bin/ruby
+print "folagbade,fmuyiwa58@gmail.com,ruby,genomics,@Folagbade"
