@@ -1,0 +1,5 @@
+console.log("Name: Tracyallen Ezechukwu\n"
++ "Email: etracyallen@gmail.com\n"
++ "Language: JavaScript\n"
++ "Biostack: Genomics\n"
++ "Slack Username: @tracyallen");
