@@ -1,2 +1,2 @@
 #!/usr/bin/python3.6
-print("Jairo_Hurtado,jairohcx@gmail.com,bash,Jairohcx@biotrust-scientific.slack.com")
+print("ijeoma15,iduru015@gmail.com,python,medicinal chemistry,@Docaijay")
