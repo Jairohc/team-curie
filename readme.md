@@ -6,6 +6,7 @@ This repository was created by team-curie.
 ## Process of design:
 ![hbio](bitmap.png "hbio")
 # Execution of BASH script
+![hbio](diagram.png "hbio")
 BASH script calls several scritps that were written in several languages as:
 + Perl (version 5.26)
 + Ruby (version 2.5.1p57)
