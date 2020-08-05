@@ -15,4 +15,4 @@ BASH script calls several scritps that were written in several languages as:
 + PHP (7.7.24)
 + Rscript (3.4.4)
 
-In order to execute and obtain the csv file you must execute the central bash script, called **process.sh**, make sure you've installed versions of languages we used before execute it. If everything is installed you must obtain a csv file that can be opened in **Microsoft excel**.
+In order to execute and obtain the csv file you must execute the central bash script, called **process.sh**, make sure you've installed versions of languages we used before execute it. If everything is installed you must obtain a csv file that can be opened in **Microsoft excel**, that contains our names, mails, specialization areas and users of slack.
